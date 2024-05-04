@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/M8BSzm0/Untitled-design.gif)]
+
 
 <h1 align="center">Hi 👋, I'm Christian Monfiston</h1>
 <h3 align="center">As a dedicated software developer, my primary focus lies in computer graphics and game development</h3>
