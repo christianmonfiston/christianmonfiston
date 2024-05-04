@@ -10,7 +10,7 @@
 
 - 👨🏾‍🎓 I’m currently a freshman majoring in computer Science at **University at Albany**
   
-- 🔭 I’m building a company transforming the world of play **Lunexis Technologies**
+- 🔭 I’m building and moving fast with **Lunexis Technologies**
   
 - 👨🏾‍💻 I'm a computer graphics developer. I'm obsessed with Raytracing, currently working on a personal 3D Render Engine using C++ and Vulkan.
 
