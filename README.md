@@ -13,6 +13,7 @@
 - 🔭 I’m building and moving fast with **Lunexis Technologies**
   
 - 👨🏾‍💻 I'm a computer graphics developer. I'm obsessed with Raytracing, currently working on a personal 3D Render Engine using C++ and Vulkan.
+ - 🇭🇹
 
 - 🌱 I’m currently learning **C, Computer Graphics, 3D Animation**
 
